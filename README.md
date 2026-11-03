@@ -2,7 +2,6 @@
 
 整个目录结构，本来想从0缝合一个，后来觉得信息收集 灯塔做的还不错 ，所以研究了下灯塔的接口，利用灯塔扫描完的结果做下一步利用
 
-![img](https://666xianke.oss-cn-hangzhou.aliyuncs.com/img/wps1.jpg)
 整个工作流程如下
 
 ![img](https://666xianke.oss-cn-hangzhou.aliyuncs.com/img/wps2.jpg)
