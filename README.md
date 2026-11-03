@@ -17,7 +17,7 @@ config.ini
 ![img](https://666xianke.oss-cn-hangzhou.aliyuncs.com/img/wps5.jpg)
 
 
-默认没5分钟监听一次 如果灯塔扫描完了自动将url发送给漏扫进行探测，就像这样
+默认每5分钟监听一次 如果灯塔扫描完了自动将url发送给漏扫进行探测，就像这样
 
 <img width="2184" height="690" alt="image" src="https://github.com/user-attachments/assets/f1baef6d-c285-40da-9d00-f5856bdff8e5" />
 
